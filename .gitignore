@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Builds
+dist/
+build/
+
+# Logs
+*.log
+
+# Ambiente
+.env
+.env.local
+
+# IDE / Editor configs
+.vscode/
+.idea/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Vitest / Jest coverage
+coverage/
+
+# Cypress screenshots e vídeos
+cypress/screenshots/
+cypress/videos/
+
+# Arquivos de SO
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp

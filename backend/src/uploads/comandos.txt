@@ -1,0 +1,5 @@
+npm run test
+
+npx cypress open
+
+npm run dev - frontend e backend
